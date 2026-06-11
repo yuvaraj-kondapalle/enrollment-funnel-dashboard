@@ -1,4 +1,3 @@
-# enrollment-funnel-dashboard
 # Enrollment Funnel Dashboard
 
 An interactive data visualization dashboard built with Python, Streamlit, 
